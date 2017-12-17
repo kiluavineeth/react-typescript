@@ -16,4 +16,5 @@ Go to the root folder: npm install (or) yarn install
 yarn build (or) npm build
 
 # Run:
-yarn start (or) npm start
+yarn start (or) npm start \
+Debug at : http://localhost:8080
